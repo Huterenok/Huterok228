@@ -14,7 +14,8 @@ const huterok = {
     }
 };
 ```
-<div><img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230"></div>
+
+<div align="center"><img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230"></div>
 
 ![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=Huterok228&hide=contribs,prs&count_private=true&show_icons=true)
 
