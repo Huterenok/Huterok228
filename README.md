@@ -1,9 +1,8 @@
-<h1>Hello Everyone! I'm Huterok🐸🍀</h1>
+<h1 align="center">Hello Everyone! I'm Huterok🐸🍀</h1>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
- <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
- <a href="https://www.linkedin.com/in/priyanshu-tiwari-b85a7a194/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+ <a href="https://github.com/Huterok228"><img src="https://img.shields.io/badge/-GitHub-lightgrey" alt="GitHub"></a>
+ <a href="https://vk.com/huterenok"><img src="https://img.shields.io/badge/-VK-blue" alt="VK"></a>
 </p>
 
 <p align="center">
