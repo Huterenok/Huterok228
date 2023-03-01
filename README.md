@@ -3,7 +3,7 @@
 <p align="center">
  <a href="https://vk.com/huterenok"><img src="https://img.shields.io/badge/-VK-blue" alt="VK"></a>
  <a href="https://github.com/Huterok228"><img src="https://img.shields.io/badge/-GitHub-lightgrey" alt="GitHub"></a>
- <a href="t.me/huterenok"><img src="https://img.shields.io/badge/-Telegram-blue" alt="VK"></a>
+ <a href="https://t.me/huterenok"><img src="https://img.shields.io/badge/-Telegram-blue" alt="VK"></a>
 </p>
 
 <p align="center">
