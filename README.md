@@ -6,10 +6,10 @@
 ```javascript
 const huterok = {
     pronouns: "He" | "Him",
-    askMeAbout: ["fronted", "web3", "mathematics", "trading", "economy"],
+    askMeAbout: ["frontend", "web3", "mathematics", "trading", "economy"],
     technologies: {
-        frontEnd: ["JavaScript/TypeScript", "React"],
-        backEnd: ["Rust", "NodeJS"],
+        frontend: ["JavaScript/TypeScript", "React"],
+        backend: ["Rust", "NodeJS"],
         web3: ["Solidity", "Rust"],
     }
 };
